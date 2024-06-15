@@ -29,7 +29,7 @@ This React application allows users to filter and search through a dataset using
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-table-filter-app.git
+   git clone https://github.com/MeetGadhiya07/react-table-filter-app.git
    ```
 2. Navigate to the project directory:
    ```bash
