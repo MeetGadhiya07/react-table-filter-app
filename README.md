@@ -61,4 +61,3 @@ This React application allows users to filter and search through a dataset using
 
 - `react`
 - `react-dom`
-- `react-table`
